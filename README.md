@@ -1,1 +1,1 @@
-https://github.com/mikelandgello/rsschool-cv/cv.md
+https://mikelandgello.github.io/rsschool-cv/cv.md
